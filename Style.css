@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Food Section */
+.food-section {
+    text-align: center;
+    margin: 30px;
+}
+
+.card {
+    display: inline-block;
+    width: 220px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.card img {
+    width: 100%;
+    height: 250px;
+}
+
+.card button {
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border: none;
+    margin-top: 10px;
+}
+
+/* Contact Section */
+.contact {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.contact input {
+    padding: 5px;
+    margin: 5px;
+}
+
+.send-btn {
+    background-color: yellow;
+    border: none;
+    padding: 10px 80px;
+    margin-top: 10px;
+}
